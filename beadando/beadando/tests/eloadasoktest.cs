@@ -62,7 +62,7 @@ namespace beadando.tests
         [TestCase]
 
 
-        void Negativletrehozas()
+       public void Negativletrehozas()
         {
             var rep = new Eloadas(-44, -55);
 
